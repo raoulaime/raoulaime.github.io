@@ -5,6 +5,14 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+NC='\033[0m' # No Color
+
+# Main repository and submodule directories
+SUBMODULE_DIR="public"
+
+
 # Set variables for Obsidian to Hugo copy
 sourcePath="/Users/raoulaime/Documents/blog/posts/"
 destinationPath="/Users/raoulaime/blogmd/blog/content/"
@@ -91,23 +99,42 @@ if ! git push origin main; then
     exit 1
 fi
 
-# Step 8: Push the public folder to the hostinger branch using subtree split and force push
-echo "Deploying to GitHub Hostinger..."
-if git branch --list | grep -q 'selfhost'; then
-    git branch -D selfhost
-fi
+# Function to push changes in the submodule
+push_submodule() {
+    echo -e "${GREEN}Pushing changes to the submodule...${NC}"
+    cd "$SUBMODULE_DIR"
 
-if ! git subtree split --prefix public -b selfhost; then
-    echo "Subtree split failed."
+    # Check for changes in the submodule
+    if [ -n "$(git status --porcelain)" ]; then
+        git add .
+        git commit -m "Update submodule content"
+        git push origin main
+        echo -e "${GREEN}Submodule changes pushed successfully.${NC}"
+    else
+        echo -e "${GREEN}No changes to push in the submodule.${NC}"
+    fi
+
+    # Go back to the main repository
+    cd ..
+}
+
+# Function to push changes in the main repository
+push_main_repo() {
+    echo -e "${GREEN}Pushing changes to the main repository...${NC}"
+    git add .
+    git commit -m "Update main repository"
+    git push origin main
+    echo -e "${GREEN}Main repository changes pushed successfully.${NC}"
+}
+
+# Ensure the script is run from the main repository
+if [ ! -d "$SUBMODULE_DIR" ]; then
+    echo -e "${RED}Error: Submodule directory '$SUBMODULE_DIR' not found!${NC}"
     exit 1
 fi
 
-if ! git push origin selfhost:selfhost --force; then
-    echo "Failed to push to hostinger branch."
-    git branch -D selfhost
-    exit 1
-fi
-
-git branch -D selfhost
+# Push changes in the submodule first, then the main repository
+push_submodule
+push_main_repo
 
 echo "All done! Site synced, processed, committed, built, and deployed."
