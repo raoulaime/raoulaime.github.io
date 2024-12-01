@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - </title>
+        <link>//localhost:1313/categories/</link>
+        <description>Categories - Category - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="//localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Automation</title>
+    <link>//localhost:1313/categories/automation/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/categories/automation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>DevOps</title>
+    <link>//localhost:1313/categories/devops/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/categories/devops/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

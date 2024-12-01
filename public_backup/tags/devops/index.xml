@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Devops - Tag - </title>
+        <link>//localhost:1313/tags/devops/</link>
+        <description>Devops - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="//localhost:1313/tags/devops/" rel="self" type="application/rss+xml" /><item>
+    <title>Getting Started with Red Hat Ansible Automation Platform</title>
+    <link>//localhost:1313/blog/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/blog/</guid>
+    <description><![CDATA[<h1 id="getting-started-with-red-hat-ansible-automation-platform">Getting Started with Red Hat Ansible Automation Platform</h1>
+<p>The <strong>Red Hat Ansible Automation Platform (AAP)</strong> is a comprehensive solution for automating IT processes, enhancing efficiency, and simplifying complex workflows. In this post, we&rsquo;ll dive into the platform&rsquo;s key features, explore its components, and provide a step-by-step guide to start your automation journey.</p>
+<hr>
+<h2 id="what-is-red-hat-ansible-automation-platform">What is Red Hat Ansible Automation Platform?</h2>
+<p>The Ansible Automation Platform is an enterprise-grade solution that extends the power of open-source Ansible with features like role-based access control, automation analytics, and scalable execution environments. It’s designed to automate repetitive tasks, from configuration management to application deployment.</p>]]></description>
+</item>
+<item>
+    <title>How to Start with Event-Driven Ansible</title>
+    <link>//localhost:1313/event-driven-ansible/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/event-driven-ansible/</guid>
+    <description><![CDATA[<h1 id="how-to-start-with-event-driven-ansible">How to Start with Event-Driven Ansible</h1>
+<p>Event-Driven Ansible (EDA) introduces a powerful approach to automation by reacting to real-time events. In this post, we’ll explore what EDA is, how it works, and provide a step-by-step guide to setting up your first EDA environment.</p>
+<hr>
+<h2 id="what-is-event-driven-ansible">What is Event-Driven Ansible?</h2>
+<p>Event-Driven Ansible allows you to automate tasks based on triggers from various event sources, such as webhooks, monitoring tools, or metrics from systems like Prometheus. This enables dynamic, real-time responses to changing infrastructure conditions.</p>]]></description>
+</item>
+</channel>
+</rss>
