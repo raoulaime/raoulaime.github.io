@@ -1,0 +1,47 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - </title>
+        <link>//localhost:1313/tags/</link>
+        <description>Tags - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="//localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Ansible</title>
+    <link>//localhost:1313/tags/ansible/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/tags/ansible/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Automation</title>
+    <link>//localhost:1313/tags/automation/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/tags/automation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Devops</title>
+    <link>//localhost:1313/tags/devops/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/tags/devops/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Event-Driven</title>
+    <link>//localhost:1313/tags/event-driven/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/tags/event-driven/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Red Hat</title>
+    <link>//localhost:1313/tags/red-hat/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/tags/red-hat/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

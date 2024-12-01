@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Red Hat - Tag - </title>
+        <link>//localhost:1313/tags/red-hat/</link>
+        <description>Red Hat - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="//localhost:1313/tags/red-hat/" rel="self" type="application/rss+xml" /><item>
+    <title>Getting Started with Red Hat Ansible Automation Platform</title>
+    <link>//localhost:1313/blog/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/blog/</guid>
+    <description><![CDATA[<h1 id="getting-started-with-red-hat-ansible-automation-platform">Getting Started with Red Hat Ansible Automation Platform</h1>
+<p>The <strong>Red Hat Ansible Automation Platform (AAP)</strong> is a comprehensive solution for automating IT processes, enhancing efficiency, and simplifying complex workflows. In this post, we&rsquo;ll dive into the platform&rsquo;s key features, explore its components, and provide a step-by-step guide to start your automation journey.</p>
+<hr>
+<h2 id="what-is-red-hat-ansible-automation-platform">What is Red Hat Ansible Automation Platform?</h2>
+<p>The Ansible Automation Platform is an enterprise-grade solution that extends the power of open-source Ansible with features like role-based access control, automation analytics, and scalable execution environments. It’s designed to automate repetitive tasks, from configuration management to application deployment.</p>]]></description>
+</item>
+</channel>
+</rss>
