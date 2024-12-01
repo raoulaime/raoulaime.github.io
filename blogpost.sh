@@ -7,134 +7,115 @@ cd "$SCRIPT_DIR"
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
+YELLOW='\033[0;33m'
 NC='\033[0m' # No Color
 
-# Main repository and submodule directories
+# Variables
 SUBMODULE_DIR="public"
+SOURCE_PATH="/Users/raoulaime/Documents/blog/posts/"
+DESTINATION_PATH="/Users/raoulaime/blogmd/blog/content/"
+MY_REPO="git@github.com:raoulaime/blog.git"
+COMMIT_MESSAGE="Blog update on $(date +'%Y-%m-%d %H:%M:%S')"
 
+# Function to check if required commands are available
+check_dependencies() {
+    for cmd in git rsync python3 hugo; do
+        if ! command -v $cmd &>/dev/null; then
+            echo -e "${RED}$cmd is not installed or not in PATH.${NC}"
+            exit 1
+        fi
+    done
+}
 
-# Set variables for Obsidian to Hugo copy
-sourcePath="/Users/raoulaime/Documents/blog/posts/"
-destinationPath="/Users/raoulaime/blogmd/blog/content/"
+# Function to initialize the repository if not already initialized
+initialize_repo() {
+    if [ ! -d ".git" ]; then
+        echo -e "${GREEN}Initializing Git repository...${NC}"
+        git init
+        git remote add origin "$MY_REPO"
+    else
+        echo -e "${GREEN}Git repository already initialized.${NC}"
+    fi
 
-# Set GitHub Repo
-myrepo="git@github.com:raoulaime/blog.git"
+    if ! git remote | grep -q 'origin'; then
+        echo -e "${GREEN}Adding remote origin...${NC}"
+        git remote add origin "$MY_REPO"
+    fi
+}
 
-# Check for required commands
-for cmd in git rsync python3 hugo; do
-    if ! command -v $cmd &> /dev/null; then
-        echo "$cmd is not installed or not in PATH."
+# Function to sync posts using rsync
+sync_posts() {
+    echo -e "${GREEN}Syncing posts from Obsidian...${NC}"
+    if [ ! -d "$SOURCE_PATH" ]; then
+        echo -e "${RED}Source path does not exist: $SOURCE_PATH${NC}"
         exit 1
     fi
-done
 
-# Step 1: Check if Git is initialized, and initialize if necessary
-if [ ! -d ".git" ]; then
-    echo "Initializing Git repository..."
-    git init
-    git remote add origin $myrepo
-else
-    echo "Git repository already initialized."
-    if ! git remote | grep -q 'origin'; then
-        echo "Adding remote origin..."
-        git remote add origin $myrepo
+    if [ ! -d "$DESTINATION_PATH" ]; then
+        echo -e "${RED}Destination path does not exist: $DESTINATION_PATH${NC}"
+        exit 1
     fi
-fi
 
-# Step 2: Sync posts from Obsidian to Hugo content folder using rsync
-echo "Syncing posts from Obsidian..."
+    rsync -av --delete "$SOURCE_PATH" "$DESTINATION_PATH"
+}
 
-if [ ! -d "$sourcePath" ]; then
-    echo "Source path does not exist: $sourcePath"
-    exit 1
-fi
+# Function to process Markdown files
+process_markdown() {
+    echo -e "${GREEN}Processing Markdown files with images.py...${NC}"
+    if [ ! -f "images.py" ]; then
+        echo -e "${RED}Python script images.py not found.${NC}"
+        exit 1
+    fi
 
-if [ ! -d "$destinationPath" ]; then
-    echo "Destination path does not exist: $destinationPath"
-    exit 1
-fi
+    python3 images.py
+}
 
-rsync -av --delete "$sourcePath" "$destinationPath"
+# Function to build the Hugo site
+build_site() {
+    echo -e "${GREEN}Building the Hugo site...${NC}"
+    hugo -t meme
+}
 
-# Step 3: Process Markdown files with Python script to handle image links
-echo "Processing image links in Markdown files..."
-if [ ! -f "images.py" ]; then
-    echo "Python script images.py not found."
-    exit 1
-fi
-
-if ! python3 images.py; then
-    echo "Failed to process image links."
-    exit 1
-fi
-
-# Step 4: Build the Hugo site
-echo "Building the Hugo site..."
-if ! hugo; then
-    echo "Hugo build failed."
-    exit 1
-fi
-
-# Step 5: Add changes to Git
-echo "Staging changes for Git..."
-if git diff --quiet && git diff --cached --quiet; then
-    echo "No changes to stage."
-else
-    git add .
-fi
-
-# Step 6: Commit changes with a dynamic message
-commit_message="New Blog Post on $(date +'%Y-%m-%d %H:%M:%S')"
-if git diff --cached --quiet; then
-    echo "No changes to commit."
-else
-    echo "Committing changes..."
-    git commit -m "$commit_message"
-fi
-
-# Step 7: Push all changes to the main branch
-echo "Deploying to GitHub Main..."
-if ! git push origin main; then
-    echo "Failed to push to main branch."
-    exit 1
-fi
-
-# Function to push changes in the submodule
+# Function to commit and push changes in the submodule
 push_submodule() {
     echo -e "${GREEN}Pushing changes to the submodule...${NC}"
-    cd "$SUBMODULE_DIR"
+    if [ ! -d "$SUBMODULE_DIR" ]; then
+        echo -e "${RED}Error: Submodule directory '$SUBMODULE_DIR' not found.${NC}"
+        exit 1
+    fi
 
-    # Check for changes in the submodule
+    cd "$SUBMODULE_DIR"
     if [ -n "$(git status --porcelain)" ]; then
         git add .
         git commit -m "Update submodule content"
         git push origin main
         echo -e "${GREEN}Submodule changes pushed successfully.${NC}"
     else
-        echo -e "${GREEN}No changes to push in the submodule.${NC}"
+        echo -e "${YELLOW}No changes to push in the submodule.${NC}"
     fi
-
-    # Go back to the main repository
     cd ..
 }
 
-# Function to push changes in the main repository
+# Function to commit and push changes in the main repository
 push_main_repo() {
-    echo -e "${GREEN}Pushing changes to the main repository...${NC}"
+    echo -e "${GREEN}Committing and pushing changes to the main repository...${NC}"
     git add .
-    git commit -m "Update main repository"
-    git push origin main
-    echo -e "${GREEN}Main repository changes pushed successfully.${NC}"
+    if [ -n "$(git status --porcelain)" ]; then
+        git commit -m "$COMMIT_MESSAGE"
+        git push origin main
+        echo -e "${GREEN}Main repository changes pushed successfully.${NC}"
+    else
+        echo -e "${YELLOW}No changes to push in the main repository.${NC}"
+    fi
 }
 
-# Ensure the script is run from the main repository
-if [ ! -d "$SUBMODULE_DIR" ]; then
-    echo -e "${RED}Error: Submodule directory '$SUBMODULE_DIR' not found!${NC}"
-    exit 1
-fi
-
-# Push changes in the submodule first, then the main repository
+# Main script execution
+check_dependencies
+initialize_repo
+sync_posts
+process_markdown
+build_site
 push_submodule
 push_main_repo
 
-echo "All done! Site synced, processed, committed, built, and deployed."
+echo -e "${GREEN}All done! Blog updated, built, and deployed.${NC}"
