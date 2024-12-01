@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Raoul</title>
+        <title>Raoul&#39;s blog</title>
         <link>//localhost:1313/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.139.3 https://gohugo.io/</generator>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 01 Dec 2024 18:20:09 -0500</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 18:25:05 -0500</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="//localhost:1313/rss.xml" />
         

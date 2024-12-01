@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "/"
-title = "Raoul"
+title = "Raoul's blog"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -13,17 +13,17 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 # Author’s information
 [author]
     # Name
-    name = "YoanDev"
+    name = "Raoul-Aime Kengne"
     # Email
-    email = "contact@yoandev.co"
+    email = "contact@kenitrahub.com"
     # Motto or introduction
     motto = "🚀 Créateur de contenu, de formations et de solutions pour le web."
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://yoandev.co/"
+    website = "https://www.kenitrahub.com/"
     # Twitter
-    twitter = "yOyO38"
+    twitter = "raoulaime"
 
 # Name of theme
 theme = "meme"
