@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Hugo Theme MemE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-12-01T16:40:21-05:00</updated>
+    <updated>2024-12-01T16:41:21-05:00</updated>
     <id>http://localhost:1313/</id>
     <link rel="alternate" type="text/html" href="http://localhost:1313/" />
     <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Getting Started with Red Hat Ansible Automation Platform</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog/" />
             <id>http://localhost:1313/blog/</id>
-            <updated>2024-12-01T06:20:23-05:00</updated>
+            <updated>2024-12-01T16:41:21-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>reuixiy</name>
@@ -207,7 +207,7 @@
             <title type="text">How to Start with Event-Driven Ansible</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/event-driven-ansible/" />
             <id>http://localhost:1313/event-driven-ansible/</id>
-            <updated>2024-12-01T16:40:21-05:00</updated>
+            <updated>2024-12-01T16:41:21-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>reuixiy</name>
@@ -369,7 +369,7 @@
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/about/" />
             <id>http://localhost:1313/about/</id>
-            <updated>2024-12-01T06:07:34-05:00</updated>
+            <updated>2024-12-01T16:41:21-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>reuixiy</name>
@@ -397,7 +397,7 @@
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/contact/" />
             <id>http://localhost:1313/contact/</id>
-            <updated>2024-12-01T06:20:37-05:00</updated>
+            <updated>2024-12-01T16:41:21-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>reuixiy</name>
