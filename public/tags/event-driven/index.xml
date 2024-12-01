@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Event-Driven - Tag - </title>
+        <link>//localhost:1313/tags/event-driven/</link>
+        <description>Event-Driven - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="//localhost:1313/tags/event-driven/" rel="self" type="application/rss+xml" /><item>
+    <title>How to Start with Event-Driven Ansible</title>
+    <link>//localhost:1313/event-driven-ansible/</link>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>//localhost:1313/event-driven-ansible/</guid>
+    <description><![CDATA[<h1 id="how-to-start-with-event-driven-ansible">How to Start with Event-Driven Ansible</h1>
+<p>Event-Driven Ansible (EDA) introduces a powerful approach to automation by reacting to real-time events. In this post, we’ll explore what EDA is, how it works, and provide a step-by-step guide to setting up your first EDA environment.</p>
+<hr>
+<h2 id="what-is-event-driven-ansible">What is Event-Driven Ansible?</h2>
+<p>Event-Driven Ansible allows you to automate tasks based on triggers from various event sources, such as webhooks, monitoring tools, or metrics from systems like Prometheus. This enables dynamic, real-time responses to changing infrastructure conditions.</p>]]></description>
+</item>
+</channel>
+</rss>
