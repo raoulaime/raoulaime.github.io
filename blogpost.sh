@@ -73,7 +73,7 @@ process_markdown() {
 # Function to build the Hugo site
 build_site() {
     echo -e "${GREEN}Building the Hugo site...${NC}"
-    hugo -t meme
+    hugo
 }
 
 # Function to commit and push changes in the submodule
