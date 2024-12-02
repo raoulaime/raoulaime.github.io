@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Raoul&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-12-01T21:00:12-05:00</updated>
+    <updated>2024-12-01T21:01:27-05:00</updated>
     <id>raoulaime.github.io/</id>
     <link rel="alternate" type="text/html" href="raoulaime.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="raoulaime.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">About me</title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/about/" />
             <id>raoulaime.github.io/about/</id>
-            <updated>2024-12-01T21:00:11-05:00</updated>
+            <updated>2024-12-01T21:01:26-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -186,7 +186,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
             <title type="text">Getting Started with Red Hat Ansible Automation Platform</title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/red-hat-ansible-automation-platform/" />
             <id>raoulaime.github.io/red-hat-ansible-automation-platform/</id>
-            <updated>2024-12-01T21:00:11-05:00</updated>
+            <updated>2024-12-01T21:01:26-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -373,7 +373,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
             <title type="text">How to Start with Event-Driven Ansible</title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/event-driven-ansible/" />
             <id>raoulaime.github.io/event-driven-ansible/</id>
-            <updated>2024-12-01T21:00:11-05:00</updated>
+            <updated>2024-12-01T21:01:26-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -535,7 +535,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
             <title type="text">Welcome to My Site</title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/home/" />
             <id>raoulaime.github.io/home/</id>
-            <updated>2024-12-01T21:00:11-05:00</updated>
+            <updated>2024-12-01T21:01:26-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -566,8 +566,8 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
 &lt;p&gt;Feel free to reach out or follow me:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:raoulaimek@gmail.com&#34;&gt;raoulaimek@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: linkedin.com/in/raoulaime&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: github.com/raoulaime&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/raoulaime&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/raoulaime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://www.github.com/raoulaime&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.github.com/raoulaime&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
@@ -587,7 +587,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/contact/" />
             <id>raoulaime.github.io/contact/</id>
-            <updated>2024-12-01T21:00:11-05:00</updated>
+            <updated>2024-12-01T21:01:26-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
