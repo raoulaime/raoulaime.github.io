@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Raoul&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-12-01T21:35:49-05:00</updated>
+    <updated>2024-12-02T09:05:24-05:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Getting Started with Red Hat Ansible Automation Platform</title>
             <link rel="alternate" type="text/html" href="/red-hat-ansible-automation-platform/" />
             <id>/red-hat-ansible-automation-platform/</id>
-            <updated>2024-12-01T21:35:48-05:00</updated>
+            <updated>2024-12-02T09:05:24-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -207,7 +207,7 @@
             <title type="text">How to Start with Event-Driven Ansible</title>
             <link rel="alternate" type="text/html" href="/event-driven-ansible/" />
             <id>/event-driven-ansible/</id>
-            <updated>2024-12-01T21:35:48-05:00</updated>
+            <updated>2024-12-02T09:05:24-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -369,7 +369,7 @@
             <title type="text">Senior Consultant, Cloud and Automation Architect</title>
             <link rel="alternate" type="text/html" href="/about/" />
             <id>/about/</id>
-            <updated>2024-12-01T21:35:48-05:00</updated>
+            <updated>2024-12-02T09:05:24-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -378,43 +378,42 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;hr&gt;
 &lt;h1 id=&#34;welcome-to-my-professional-blog&#34;&gt;Welcome to My Professional Blog&lt;/h1&gt;
-&lt;p&gt;I’m &lt;strong&gt;Raoul-Aimé Kengne&lt;/strong&gt;, a Senior Consultant, Cloud Architect, and Automation Specialist with over 15 years of experience in IT infrastructure, cloud solutions, and hybrid environments. I’ve successfully led projects in banking and telecommunications, blending deep technical expertise with a strategic mindset.&lt;/p&gt;
+&lt;p&gt;I’m &lt;strong&gt;Raoul-Aimé Kengne&lt;/strong&gt;, a Senior Consultant, Cloud Architect, and Automation Specialist with over 14 years of experience in IT infrastructure, cloud solutions, and hybrid environments. I’ve successfully led projects in banking and telecommunications, blending deep technical expertise with a strategic mindset.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-expertise-and-services&#34;&gt;🚀 Expertise and Services&lt;/h2&gt;
 &lt;p&gt;I specialize in designing, deploying, and automating IT solutions to meet complex business challenges. My key areas of expertise include:&lt;/p&gt;</summary>
             
                 <content type="html">&lt;hr&gt;
 &lt;h1 id=&#34;welcome-to-my-professional-blog&#34;&gt;&lt;a href=&#34;/about/#welcome-to-my-professional-blog&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;Welcome to My Professional Blog&lt;/h1&gt;
-&lt;p style=&#34;text-indent:0&#34;&gt;&lt;span class=&#34;drop-cap&#34;&gt;I&lt;/span&gt;’m &lt;strong&gt;Raoul-Aimé Kengne&lt;/strong&gt;, a Senior Consultant, Cloud Architect, and Automation Specialist with over 15 years of experience in IT infrastructure, cloud solutions, and hybrid environments. I’ve successfully led projects in banking and telecommunications, blending deep technical expertise with a strategic mindset.&lt;/p&gt;
+&lt;p style=&#34;text-indent:0&#34;&gt;&lt;span class=&#34;drop-cap&#34;&gt;I&lt;/span&gt;’m &lt;strong&gt;Raoul-Aimé Kengne&lt;/strong&gt;, a Senior Consultant, Cloud Architect, and Automation Specialist with over 14 years of experience in IT infrastructure, cloud solutions, and hybrid environments. I’ve successfully led projects in banking and telecommunications, blending deep technical expertise with a strategic mindset.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-expertise-and-services&#34;&gt;&lt;a href=&#34;/about/#-expertise-and-services&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;🚀 Expertise and Services&lt;/h2&gt;
 &lt;p&gt;I specialize in designing, deploying, and automating IT solutions to meet complex business challenges. My key areas of expertise include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cloud Architecture&lt;/strong&gt;: AWS, Microsoft Azure, and hybrid solutions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Infrastructure Automation&lt;/strong&gt;: Proficient in Ansible, Terraform, and Packer.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hybrid Cloud Migrations&lt;/strong&gt;: Seamless transitions to modern infrastructures.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical Governance&lt;/strong&gt;: Risk assessment and impact analysis.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DevOps &amp;amp; CI/CD&lt;/strong&gt;: Automation and operational excellence.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cloud Architecture&lt;/strong&gt;: Designing secure, scalable environments on Azure, AWS, and hybrid cloud setups.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation Frameworks&lt;/strong&gt;: Proficient in Red Hat Ansible Automation Platform, Terraform, and Packer to streamline IT operations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Container Orchestration&lt;/strong&gt;: Deploying and managing containerized applications using OpenShift and Kubernetes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hybrid Cloud Migrations&lt;/strong&gt;: Seamless transitions to modern infrastructures, integrating on-premises and cloud environments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DevOps Implementation&lt;/strong&gt;: Streamlining software development and delivery pipelines using CI/CD best practices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enterprise IT Governance&lt;/strong&gt;: Establishing technical standards and ensuring compliance with security frameworks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom Infrastructure Solutions&lt;/strong&gt;: Building tailored environments to support enterprise workloads and improve operational efficiency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security and RBAC Integration&lt;/strong&gt;: Implementing robust access controls, cloud-native security tools, and policies to protect critical systems.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Let’s discuss how I can assist your organization in achieving its goals. &lt;strong&gt;&lt;a href=&#34;/about/#connect-with-me&#34;&gt;Contact Me&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-career-highlights&#34;&gt;&lt;a href=&#34;/about/#-career-highlights&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;🌟 Career Highlights&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Led the automation of &lt;strong&gt;1,600+ servers&lt;/strong&gt; using Ansible Automation Platform.&lt;/li&gt;
-&lt;li&gt;Migrated critical workloads to &lt;strong&gt;Microsoft Azure&lt;/strong&gt; for Quebec’s Ministry of Education.&lt;/li&gt;
-&lt;li&gt;Designed and integrated &lt;strong&gt;cloud landing zones&lt;/strong&gt; for AWS and Azure environments.&lt;/li&gt;
-&lt;li&gt;Developed and optimized &lt;strong&gt;hybrid cloud infrastructures&lt;/strong&gt; for Société Générale.&lt;/li&gt;
+&lt;li&gt;Designed and implemented scalable hybrid cloud infrastructures supporting thousands of users and multiple data centers.&lt;/li&gt;
+&lt;li&gt;Automated the provisioning and configuration of servers (1,600+ systems) using Ansible Automation Platform, enhancing deployment speed and reliability.&lt;/li&gt;
+&lt;li&gt;Migrated mission-critical workloads to public and hybrid cloud environments, ensuring operational continuity and enhanced performance.&lt;/li&gt;
+&lt;li&gt;Developed Infrastructure as Code (IaC) solutions with Terraform and Azure Bicep, reducing manual errors and accelerating infrastructure delivery.&lt;/li&gt;
+&lt;li&gt;Integrated advanced security measures, including RBAC and cloud-native security tools, to safeguard sensitive systems and data.&lt;/li&gt;
+&lt;li&gt;Established governance frameworks and architectural guidelines to standardize IT practices across diverse operational environments.&lt;/li&gt;
+&lt;li&gt;Conducted proofs of concept (POC) for innovative solutions, such as container platforms, automation frameworks, and cloud-native tools.&lt;/li&gt;
+&lt;li&gt;Led cross-functional teams in implementing DevOps practices, streamlining software delivery pipelines, and improving collaboration.&lt;/li&gt;
+&lt;li&gt;Provided expert-level support for high-severity incidents, including root cause analysis and recovery planning.&lt;/li&gt;
+&lt;li&gt;Delivered technical training and mentoring, upskilling teams in cloud technologies, automation, and IT best practices.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Explore more in my &lt;strong&gt;&lt;a href=&#34;/about/#portfolio&#34;&gt;Portfolio&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-portfolio&#34;&gt;&lt;a href=&#34;/about/#-portfolio&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;📂 Portfolio&lt;/h2&gt;
-&lt;p&gt;Here’s a snapshot of some of my most impactful projects:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Retraite Québec&lt;/strong&gt;: Implemented an Ansible-based automation platform integrated with Azure DevOps.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Société Générale&lt;/strong&gt;: Designed and optimized hybrid cloud solutions for 18 African subsidiaries.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ministry of Education (Quebec)&lt;/strong&gt;: Migrated workloads to Azure and automated deployments with Terraform.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Read detailed case studies on the &lt;strong&gt;&lt;a href=&#34;/about/#&#34;&gt;Projects page&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-education-and-certifications&#34;&gt;&lt;a href=&#34;/about/#-education-and-certifications&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;🎓 Education and Certifications&lt;/h2&gt;
 &lt;h3 id=&#34;education&#34;&gt;&lt;a href=&#34;/about/#education&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;Education&lt;/h3&gt;
@@ -428,25 +427,73 @@
 &lt;li&gt;&lt;strong&gt;Microsoft Certified: Azure Solution Architect Expert&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Red Hat Certified Engineer (RHCE)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;HashiCorp Certified: Terraform Associate&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;TOGAF 9 Certified&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;(Full certification list available on &lt;strong&gt;&lt;a href=&#34;https://www.credly.com/users/raoulaime&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Credly&lt;/a&gt;&lt;/strong&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TOGAF 9 Certified&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ITIL® 4 Foundation&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;(Full certification list available on &lt;strong&gt;&lt;a href=&#34;https://www.credly.com/users/raoulaime&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Credly&lt;/a&gt;&lt;/strong&gt;)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-technology-stack&#34;&gt;&lt;a href=&#34;/about/#-technology-stack&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;📊 Technology Stack&lt;/h2&gt;
 &lt;p&gt;I work with a wide range of technologies, including:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cloud&lt;/strong&gt;: AWS, Azure, OpenStack&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Automation&lt;/strong&gt;: Ansible, Terraform, Packer&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Programming&lt;/strong&gt;: Python, Bash, PowerShell&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Systems&lt;/strong&gt;: Red Hat Enterprise Linux, Windows Server&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DevOps Tools&lt;/strong&gt;: Azure DevOps, Jenkins, GitHub Actions&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cloud Platforms&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Azure: Virtual Machines, Azure AD, Azure DevOps, Azure Bicep.&lt;/li&gt;
+&lt;li&gt;AWS: EC2, S3, IAM, and advanced networking.&lt;/li&gt;
+&lt;li&gt;OpenShift: Deployment and scaling of containerized applications.&lt;/li&gt;
+&lt;li&gt;Hybrid Cloud Integrations: Combining on-premises and cloud services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automation Tools&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Red Hat Ansible Automation Platform: Playbooks, roles, AWX, RBAC.&lt;/li&gt;
+&lt;li&gt;Terraform: IaC for cloud resource management.&lt;/li&gt;
+&lt;li&gt;Packer: Building and managing custom VM images.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Containerization and Orchestration&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kubernetes: Managing containerized applications.&lt;/li&gt;
+&lt;li&gt;OpenShift: Advanced orchestration and multi-cloud container management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Programming and Scripting&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python, Bash, PowerShell: Automation and custom solutions.&lt;/li&gt;
+&lt;li&gt;YAML: Configuration management for cloud and containerized environments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Systems and OS&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux: Red Hat Enterprise Linux (RHEL), CentOS.&lt;/li&gt;
+&lt;li&gt;Windows Server: 2012, 2016, 2019, 2022.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DevOps Tools&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CI/CD Pipelines: Azure DevOps, Jenkins, GitHub Actions.&lt;/li&gt;
+&lt;li&gt;Monitoring and Logging: Prometheus, Grafana, ELK Stack.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Security and Compliance&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RBAC: Role-based access control across cloud and on-premises systems.&lt;/li&gt;
+&lt;li&gt;Cloud-Native Security: Azure Security Center, AWS Security Hub.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-community-and-publications&#34;&gt;&lt;a href=&#34;/about/#-community-and-publications&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;🌍 Community and Publications&lt;/h2&gt;
 &lt;p&gt;I believe in sharing knowledge and contributing to the tech community:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Regular speaker at &lt;strong&gt;cloud and automation events&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Active member of &lt;strong&gt;Internet Society – Cameroon &amp;amp; Quebec Chapters&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Active member of &lt;strong&gt;Internet Society – Cameroon Chapters&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Contributor to open-source projects in automation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Check out my &lt;strong&gt;&lt;a href=&#34;/about/#blog&#34;&gt;Blog&lt;/a&gt;&lt;/strong&gt; for insights on cloud computing, IaC, and IT strategy.&lt;/p&gt;
@@ -525,7 +572,7 @@
             <title type="text">Welcome to My Site</title>
             <link rel="alternate" type="text/html" href="/home/" />
             <id>/home/</id>
-            <updated>2024-12-01T21:35:48-05:00</updated>
+            <updated>2024-12-02T09:05:24-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -642,7 +689,7 @@
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="/contact/" />
             <id>/contact/</id>
-            <updated>2024-12-01T21:35:48-05:00</updated>
+            <updated>2024-12-02T09:05:24-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
