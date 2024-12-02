@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Raoul&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-12-01T21:07:15-05:00</updated>
+    <updated>2024-12-01T21:12:26-05:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">About me</title>
             <link rel="alternate" type="text/html" href="/about/" />
             <id>/about/</id>
-            <updated>2024-12-01T21:07:14-05:00</updated>
+            <updated>2024-12-01T21:12:25-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -186,7 +186,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
             <title type="text">Getting Started with Red Hat Ansible Automation Platform</title>
             <link rel="alternate" type="text/html" href="/red-hat-ansible-automation-platform/" />
             <id>/red-hat-ansible-automation-platform/</id>
-            <updated>2024-12-01T21:07:14-05:00</updated>
+            <updated>2024-12-01T21:12:25-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -313,7 +313,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Written by &lt;strong&gt;Your Name&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Written by Raoul-Aimé Kengne&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
             
@@ -373,7 +373,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
             <title type="text">How to Start with Event-Driven Ansible</title>
             <link rel="alternate" type="text/html" href="/event-driven-ansible/" />
             <id>/event-driven-ansible/</id>
-            <updated>2024-12-01T21:07:14-05:00</updated>
+            <updated>2024-12-01T21:12:25-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -475,7 +475,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Written by &lt;strong&gt;Your Name&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Written by Raoul-Aimé Kengne&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
             
@@ -535,7 +535,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
             <title type="text">Welcome to My Site</title>
             <link rel="alternate" type="text/html" href="/home/" />
             <id>/home/</id>
-            <updated>2024-12-01T21:07:14-05:00</updated>
+            <updated>2024-12-01T21:12:25-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -587,7 +587,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="/contact/" />
             <id>/contact/</id>
-            <updated>2024-12-01T21:07:14-05:00</updated>
+            <updated>2024-12-01T21:12:25-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>

@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 01 Dec 2024 21:07:15 -0500</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 21:12:26 -0500</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="/rss.xml" />
         
@@ -290,7 +290,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Written by &lt;strong&gt;Your Name&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Written by Raoul-Aimé Kengne&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
                 
@@ -448,7 +448,7 @@ Developed an Ansible role to generate HTML reports summarizing patch status acro
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Written by &lt;strong&gt;Your Name&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Written by Raoul-Aimé Kengne&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
                 
