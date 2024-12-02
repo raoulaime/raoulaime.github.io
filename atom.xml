@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Raoul&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-12-02T10:53:57-05:00</updated>
+    <updated>2024-12-02T11:02:43-05:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Even Driven Ansible</title>
             <link rel="alternate" type="text/html" href="/event-driven-ansible/" />
             <id>/event-driven-ansible/</id>
-            <updated>2024-12-02T10:53:57-05:00</updated>
+            <updated>2024-12-02T11:02:41-05:00</updated>
             <published>2024-12-02T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -251,7 +251,7 @@
             <title type="text">Infrastructure as Code: Revolutionizing Infrastructure Management with Ansible and Terraform</title>
             <link rel="alternate" type="text/html" href="/ansible-and-terraform/" />
             <id>/ansible-and-terraform/</id>
-            <updated>2024-12-02T10:53:57-05:00</updated>
+            <updated>2024-12-02T11:02:41-05:00</updated>
             <published>2024-12-02T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -429,7 +429,7 @@
             <title type="text">Senior Consultant, Cloud and Automation Architect</title>
             <link rel="alternate" type="text/html" href="/about/" />
             <id>/about/</id>
-            <updated>2024-12-02T10:53:57-05:00</updated>
+            <updated>2024-12-02T11:02:41-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -630,7 +630,7 @@
             <title type="text">Welcome to My Site</title>
             <link rel="alternate" type="text/html" href="/home/" />
             <id>/home/</id>
-            <updated>2024-12-02T10:53:57-05:00</updated>
+            <updated>2024-12-02T11:02:41-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -694,10 +694,10 @@
 &lt;h2 id=&#34;-connect-with-me&#34;&gt;&lt;a href=&#34;/home/#-connect-with-me&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;📧 Connect With Me&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s stay connected! Here’s how you can reach me:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;:  &lt;a href=&#34;raoulaimek@gmail.com&#34;&gt;Contact me&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/raoulaime&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;github.com/raoulaime&#34;&gt;GitHub Profile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Twitter&lt;/strong&gt;: &lt;a href=&#34;twitter.com/raoulaime&#34;&gt;@Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;:  mailto:raoulaimek@gmail.com&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/raoulaime&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/raoulaime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: github.com/raoulaime&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Twitter&lt;/strong&gt;: twitter.com/raoulaime&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-tools-and-technologies-i-love&#34;&gt;&lt;a href=&#34;/home/#-tools-and-technologies-i-love&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;🚀 Tools and Technologies I Love&lt;/h2&gt;
@@ -745,7 +745,7 @@
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="/contact/" />
             <id>/contact/</id>
-            <updated>2024-12-02T10:53:57-05:00</updated>
+            <updated>2024-12-02T11:02:41-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
