@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Raoul&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-12-02T10:19:40-05:00</updated>
+    <updated>2024-12-02T10:24:02-05:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Even Driven Ansible</title>
             <link rel="alternate" type="text/html" href="/event-driven-ansible/" />
             <id>/event-driven-ansible/</id>
-            <updated>2024-12-02T10:19:40-05:00</updated>
+            <updated>2024-12-02T10:24:02-05:00</updated>
             <published>2024-12-02T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -251,7 +251,7 @@
             <title type="text">Infrastructure as Code: Revolutionizing Infrastructure Management with Ansible and Terraform</title>
             <link rel="alternate" type="text/html" href="/ansible-and-terraform/" />
             <id>/ansible-and-terraform/</id>
-            <updated>2024-12-02T10:19:40-05:00</updated>
+            <updated>2024-12-02T10:24:02-05:00</updated>
             <published>2024-12-02T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -429,7 +429,7 @@
             <title type="text">Senior Consultant, Cloud and Automation Architect</title>
             <link rel="alternate" type="text/html" href="/about/" />
             <id>/about/</id>
-            <updated>2024-12-02T10:19:40-05:00</updated>
+            <updated>2024-12-02T10:24:02-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -630,7 +630,7 @@
             <title type="text">Welcome to My Site</title>
             <link rel="alternate" type="text/html" href="/home/" />
             <id>/home/</id>
-            <updated>2024-12-02T10:19:40-05:00</updated>
+            <updated>2024-12-02T10:24:02-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -747,7 +747,7 @@
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="/contact/" />
             <id>/contact/</id>
-            <updated>2024-12-02T10:19:40-05:00</updated>
+            <updated>2024-12-02T10:24:02-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
