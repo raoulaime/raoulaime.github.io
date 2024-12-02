@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Raoul&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-12-01T20:09:49-05:00</updated>
+    <updated>2024-12-01T20:22:34-05:00</updated>
     <id>raoulaime.github.io/</id>
     <link rel="alternate" type="text/html" href="raoulaime.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="raoulaime.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Getting Started with Red Hat Ansible Automation Platform</title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/red-hat-ansible-automation-platform/" />
             <id>raoulaime.github.io/red-hat-ansible-automation-platform/</id>
-            <updated>2024-12-01T20:09:48-05:00</updated>
+            <updated>2024-12-01T20:22:34-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -207,7 +207,7 @@
             <title type="text">How to Start with Event-Driven Ansible</title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/event-driven-ansible/" />
             <id>raoulaime.github.io/event-driven-ansible/</id>
-            <updated>2024-12-01T20:09:48-05:00</updated>
+            <updated>2024-12-01T20:22:34-05:00</updated>
             <published>2024-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -369,7 +369,7 @@
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/about/" />
             <id>raoulaime.github.io/about/</id>
-            <updated>2024-12-01T20:09:48-05:00</updated>
+            <updated>2024-12-01T20:22:34-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
@@ -397,7 +397,7 @@
             <title type="text"></title>
             <link rel="alternate" type="text/html" href="raoulaime.github.io/contact/" />
             <id>raoulaime.github.io/contact/</id>
-            <updated>2024-12-01T20:09:48-05:00</updated>
+            <updated>2024-12-01T20:22:34-05:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Raoul-Aime Kengne</name>
