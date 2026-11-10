@@ -8,7 +8,7 @@ This repository holds the **generated output only**. Please don't edit the HTML 
 
 Hi, I'm **Raoul-Aimé Kengne**. I live in Quebec City and I've spent the last 16 years building and running infrastructure for banks, government and telecoms, first in Cameroon and Morocco, now in Canada.
 
-What I enjoy most is taking something that works only because one person remembers how, and turning it into something a whole team can rebuild from Git. Most of that work is on Red Hat platforms (OpenShift, Ansible Automation Platform, RHEL), AWS and Azure, and on clusters we build on-premises with VMware or KVM.
+What I like most is taking something that works only because one person remembers how, and turning it into something a whole team can rebuild from Git. Most of that work is on Red Hat platforms (OpenShift, Ansible Automation Platform, RHEL), AWS and Azure, and on clusters I build on premises with VMware or KVM.
 
 At home I run a small lab where I try things before I recommend them to anyone.
 
@@ -23,7 +23,7 @@ I'm a technical lead on Red Hat OpenShift (ROSA, ARO), the subject-matter expert
 - **Automation and IaC**: Ansible Automation Platform (AAP/AWX), Terraform, Helm, Azure DevOps, GitHub Actions, Python.
 - **Architecture and governance**: enterprise and technology architecture, integration, impact analysis, IT governance, technology risk.
 - **Observability**: Prometheus, Grafana, Azure Monitor, AWS CloudWatch.
-- **Systems**: RHEL, IBM AIX, Windows Server, VMware, Cisco, plus Oracle, Informix and SQL Server.
+- **Systems**: RHEL, Windows Server, VMware, Cisco.
 
 ### Career highlights
 
